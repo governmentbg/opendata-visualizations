@@ -1,0 +1,78 @@
+			svg {
+			  position: relative;
+			}
+
+			circle{
+			  fill: none;
+			  stroke: #999;
+			}
+			circle.incre{
+			  fill: #a1d99b;
+			  stroke: #fff;
+			}
+			circle.decre{
+			  fill: #fc9272;
+			  stroke: #fff;
+			}
+
+			path {
+			  fill-opacity: .7;
+			  stroke: #fff;
+			  stroke-width: 1.5px;
+			}
+
+			#path-tooltip {
+			  position: absolute;
+			  width: 200px;
+			  height: auto;
+			  padding: 10px;
+			  background-color: white;
+			  -webkit-border-radius: 10px;	
+			  -moz-border-radius: 10px;
+			  border-radius: 10px;
+			  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  pointer-events: none;
+			  z-index: 100;
+			}
+			#path-tooltip.path-hidden {
+			  opacity: 0;
+			}
+			#path-tooltip p {
+			  margin: 0;
+			  font-family: sans-serif;
+			  font-size: 16px;
+			  line-height: 20px;
+			}
+
+			#play, #slider-container{
+			  display: inline-block;
+			  vertical-align: top;
+			}
+
+			#play{
+			  width: 53px;
+			  height: 53px;
+			  background-image: url(img/play.png);
+			  border-radius: 5px;
+			  margin-left: 20px;
+			  cursor: pointer;
+			}
+
+			#play:hover{
+			  background-position: 0 -53px;
+			}
+
+			#play.pause{
+			  background-image: url(img/pause.png);
+			}
+
+			#slider-container{
+			  position: relative;
+			}
+
+			#slider-div{
+			  margin-left: 25px;
+			  margin-top: 10px;
+			}

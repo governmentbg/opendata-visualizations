@@ -1,0 +1,359 @@
+body {
+  min-width: 996px;
+}
+
+body, input, button, select, textarea {
+  font-family: 'Data Gov','Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #fff;
+}
+
+a {
+  color: #981919;
+}
+a:hover {
+  color: #D1A700;
+}
+
+.masthead {
+  background-image: url('data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4gPHN2ZyB2ZXJzaW9uPSIxLjEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PGRlZnM+PGxpbmVhckdyYWRpZW50IGlkPSJncmFkIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCIgeDE9IjAuNSIgeTE9IjAuMCIgeDI9IjAuNSIgeTI9IjEuMCI+PHN0b3Agb2Zmc2V0PSIwJSIgc3RvcC1jb2xvcj0iI2ZmZmZmZiIvPjxzdG9wIG9mZnNldD0iMTAwJSIgc3RvcC1jb2xvcj0iI2Y3ZjZmMCIvPjwvbGluZWFyR3JhZGllbnQ+PC9kZWZzPjxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIGZpbGw9InVybCgjZ3JhZCkiIC8+PC9zdmc+IA==');
+  background-size: 100%;
+  background-image: -moz-linear-gradient(#ffffff, #f7f6f0);
+  background-image: -webkit-linear-gradient(#ffffff, #f7f6f0);
+  background-image: linear-gradient(#ffffff, #f7f6f0);
+  color: #160101;
+  border-bottom: 1px solid #C9C0A9;
+}
+.masthead .container {
+  padding-bottom: 12px;
+  padding-left: 71px;
+  left: 10px;
+  width: 915px;
+  background: url("/onelion.png") no-repeat right top;
+}
+.masthead input[type="text"] {
+  border: 1px solid #a98b8b;
+  padding: 6px 10px 5px 10px;
+  margin: 0;
+}
+.masthead .simple-input .field .btn-search {
+  right: 7px;
+}
+.masthead .content {
+  position: relative;
+  top: auto;
+}
+.masthead hgroup {
+  padding-top: 15px;
+  padding-bottom: 18px;
+}
+.masthead hgroup h2 {
+  padding-top: 22px;
+  line-height: 1.1em;
+  font-size: 18px;
+  position: relative;
+  top: auto;
+  bottom: auto;
+  float: none;
+  left: auto;
+  margin-left: 193px;
+}
+.masthead hgroup h2 strong {
+  display: block;
+  font-weight: 900;
+}
+.masthead .header-image {
+  overflow: hidden;
+}
+.masthead .navigation.section {
+  margin-left: 193px;
+  margin-right: 1px;
+}
+.masthead .logo {
+  float: left;
+}
+.masthead .site-search {
+  margin-top: 0;
+}
+
+[role=main], .main, .hero {
+  background: #fff;
+}
+
+.nav-pills > li {
+  font-size: 15px;
+}
+.nav-pills > li > a {
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+  line-height: 15px;
+  background: #c7c6c1;
+  color: #000;
+  margin: 0 1px 0 0;
+  padding: 9px 22px;
+  text-transform: lowercase;
+}
+.masthead .navigation .nav-pills > li > a:hover {
+  background: #eed767;
+  color: #3c3d3f;
+}
+.masthead .navigation .nav-pills > li.active a {
+  cursor: default;
+  background: #6a1212;
+}
+.masthead .navigation .nav-pills > li.active a:hover {
+  color: #fff;
+}
+
+.account-masthead {
+  background: #3c3d3f;
+}
+.account-masthead .account ul li {
+  border-left: 0;
+}
+.account-masthead .account ul li a {
+  color: #fff;
+}
+.account-masthead .account ul li a:hover {
+  color: #fff;
+  background: #6a1212;
+}
+
+.wrapper {
+  border: 0;
+  -moz-box-shadow: none;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  background: none;
+}
+
+.module-heading {
+  background: #EEEAD8;
+}
+
+[role=main] .secondary {
+  border: 1px solid #D8D3C0;
+  -moz-border-radius: 3px;
+  -webkit-border-radius: 3px;
+  border-radius: 3px;
+}
+
+textarea,
+select,
+input[type="text"],
+input[type="password"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="date"],
+input[type="month"],
+input[type="time"],
+input[type="week"],
+input[type="number"],
+input[type="email"],
+input[type="url"],
+input[type="search"],
+input[type="tel"],
+input[type="color"],
+.uneditable-input {
+  border-color: #a98b8b;
+}
+textarea:focus,
+select:focus,
+input[type="text"]:focus,
+input[type="password"]:focus,
+input[type="datetime"]:focus,
+input[type="datetime-local"]:focus,
+input[type="date"]:focus,
+input[type="month"]:focus,
+input[type="time"]:focus,
+input[type="week"]:focus,
+input[type="number"]:focus,
+input[type="email"]:focus,
+input[type="url"]:focus,
+input[type="search"]:focus,
+input[type="tel"]:focus,
+input[type="color"]:focus,
+.uneditable-input:focus {
+  -moz-box-shadow: 0 0 0 2px rgba(106, 18, 18, 0.85);
+  -webkit-box-shadow: 0 0 0 2px rgba(106, 18, 18, 0.85);
+  box-shadow: 0 0 0 2px rgba(106, 18, 18, 0.85);
+  -moz-border-radius: 0;
+  -webkit-border-radius: 0;
+  border-radius: 0;
+  border-color: #6a1212;
+  outline: none;
+}
+
+.btn-primary {
+  color: #fff;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  background: #6a1212;
+  border: none;
+  -moz-border-radius: 2px;
+  -webkit-border-radius: 2px;
+  border-radius: 2px;
+}
+
+.btn-primary:hover,
+.btn-primary:focus,
+.btn-primary:active,
+.btn-primary.active,
+.btn-primary.disabled,
+.btn-primary[disabled] {
+  color: #3c3d3f;
+  text-shadow: none;
+  background: #eed767;
+}
+
+.stages {
+  margin-top: 0;
+}
+.stages li.complete:before {
+  color: #6A4E12;
+  background: #F1EEE3;
+}
+.stages li.complete .highlight {
+  background: #E9E3D5;
+  color: #443D39;
+}
+.stages li.complete:after {
+  border-top-color: #E9E3D5;
+  border-bottom-color: #E9E3D5;
+}
+.stages li.active:before {
+  color: #6a1212;
+}
+.stages li.active:after {
+  color: #6a1212;
+  border-top-color: #6a1212;
+  border-bottom-color: #6a1212;
+}
+.stages li.active .highlight {
+  background: #6a1212;
+}
+
+.site-footer {
+  padding-top: 40px;
+  padding-bottom: 60px;
+  background: none;
+  color: #3c3d3f;
+}
+.site-footer .container {
+  padding-top: 40px;
+  text-align: center;
+}
+.site-footer:before {
+  content: "";
+  width: 640px;
+  margin: 0 auto;
+  border-top: 1px solid #C9C0A9;
+}
+.site-footer label {
+  color: #3c3d3f;
+  line-height: 30px;
+}
+.site-footer a {
+  color: #3c3d3f;
+}
+.site-footer a:hover {
+  color: #D1A700;
+}
+.site-footer .attribution {
+  vertical-align: top;
+  margin-left: 20px;
+  text-align: left;
+  float: none;
+  display: inline-block;
+  width: auto;
+}
+.site-footer .attribution strong {
+  font-weight: normal;
+}
+.site-footer .attribution .ckan-footer-logo {
+  background: url("/ckan-logo-footer.png") no-repeat top left;
+}
+.site-footer form {
+  margin-bottom: 10px;
+}
+.site-footer .footer-links {
+  vertical-align: top;
+  text-align: right;
+  display: inline-block;
+  float: none;
+  width: auto;
+  padding-top: 0.3em;
+}
+.site-footer .footer-links ul {
+  width: auto;
+  margin-left: 0;
+}
+.site-footer .footer-links ul:first-child {
+  float: none;
+}
+.site-footer .footer-links .obshtestvo a {
+  display: inline-block;
+}
+.site-footer .footer-links .obshtestvo a span {
+  display: block;
+  height: 14px;
+  overflow: hidden;
+}
+.site-footer .footer-links .obshtestvo a span img {
+  position: relative;
+}
+.site-footer .footer-links .obshtestvo a:hover span img {
+  top: -14px;
+}
+
+.module-content, .module-content:first-child, .module-content:last-child {
+  padding-top: 0;
+}
+.module-narrow .module-content {
+  margin-top: 10px;
+}
+.context-info .module-content {
+  padding-top: 15px;
+}
+
+.search-form .control-order-by select {
+  width: 175px;
+}
+
+.module.groups {
+  display: none;
+}
+
+/*# sourceMappingURL=extra.css.map */
+
+@font-face {
+    font-family: 'Data Gov';
+    src: url('/font/datagov-regular.eot');
+    src: url('/font/datagov-regular.eot?#iefix') format('embedded-opentype'),
+         url('/font/datagov-regular.woff2') format('woff2'),
+         url('/font/datagov-regular.woff') format('woff'),
+         url('/font/datagov-regular.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Data Gov';
+    src: url('/font/datagov-bold.eot');
+    src: url('/font/datagov-bold.eot?#iefix') format('embedded-opentype'),
+         url('/font/datagov-bold.woff2') format('woff2'),
+         url('/font/datagov-bold.woff') format('woff'),
+         url('/font/datagov-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Data Gov';
+    src: url('/font/datagov-black.eot');
+    src: url('/font/datagov-black.eot?#iefix') format('embedded-opentype'),
+         url('/font/datagov-black.woff2') format('woff2'),
+         url('/font/datagov-black.woff') format('woff'),
+         url('/font/datagov-black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}

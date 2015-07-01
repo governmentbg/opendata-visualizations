@@ -1,0 +1,72 @@
+			/* Tree visualization CSS */
+
+			.node circle {
+			  cursor: pointer;
+			  fill: #fff;
+			  stroke: steelblue;
+			  stroke-width: 1.5px;
+			}
+
+			.node text {
+			  font-size: 11px;
+			}
+
+			path.link {
+			  fill: none;
+			  stroke: #ccc;
+			  /*  stroke: steelblue; */
+			  stroke-width: 1.5px;
+			}
+ 
+			/* Sunburst visualization CSS */
+
+			form {
+			  position: relative;
+			  right: 10px;
+			  top: 10px;
+			}
+
+			label{
+				display:block;
+				float:left;
+				text-align:left;
+			}
+
+			label{
+			    vertical-align: middle;
+			}
+
+			input{
+			    vertical-align: middle;
+			}
+
+			#sun-tooltip {
+			  position: absolute;
+			  width: 200px;
+			  height: auto;
+			  padding: 10px;
+			  background-color: white;
+			  -webkit-border-radius: 10px;
+			  -moz-border-radius: 10px;
+			  border-radius: 10px;
+			  -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  -moz-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+			  pointer-events: none;
+			}
+			#sun-tooltip.sun-hidden {
+			  opacity: 0;
+			}
+			#sun-tooltip p {
+			  margin: 0;
+			  font-family: sans-serif;
+			  font-size: 16px;
+			  line-height: 20px;
+			}
+
+			.chart {
+			  display: block;
+			  margin: auto;
+			  margin-top: 60px;
+			  font-size: 11px;
+			}

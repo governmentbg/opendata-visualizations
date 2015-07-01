@@ -1,0 +1,2561 @@
+{
+	"name" : "onlineData",
+	"data" : [{
+			"Year" : "2006",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 7.0475,
+					"InternetAccessTot" : 3172.2,
+					"InternetNeverPrc" : 84.689,
+					"InternetNeverTot" : 70611,
+					"InternetRegPrc" : 13.494,
+					"InternetRegTot" : 11251,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 15.326,
+					"InternetAccessTot" : 12626,
+					"InternetNeverPrc" : 80.206,
+					"InternetNeverTot" : 1.3751e+05,
+					"InternetRegPrc" : 13.733,
+					"InternetRegTot" : 23545,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 19.662,
+					"InternetAccessTot" : 12281,
+					"InternetNeverPrc" : 85.219,
+					"InternetNeverTot" : 1.0927e+05,
+					"InternetRegPrc" : 9.1045,
+					"InternetRegTot" : 11674,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 10.144,
+					"InternetAccessTot" : 5767.4,
+					"InternetNeverPrc" : 71.696,
+					"InternetNeverTot" : 84790,
+					"InternetRegPrc" : 22.446,
+					"InternetRegTot" : 26545,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 13.874,
+					"InternetAccessTot" : 15057,
+					"InternetNeverPrc" : 78.11,
+					"InternetNeverTot" : 1.7327e+05,
+					"InternetRegPrc" : 15.227,
+					"InternetRegTot" : 33778,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 16.961,
+					"InternetAccessTot" : 17618,
+					"InternetNeverPrc" : 74.983,
+					"InternetNeverTot" : 1.7106e+05,
+					"InternetRegPrc" : 16.729,
+					"InternetRegTot" : 38164,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 11.925,
+					"InternetAccessTot" : 6176.3,
+					"InternetNeverPrc" : 71.228,
+					"InternetNeverTot" : 75647,
+					"InternetRegPrc" : 18.542,
+					"InternetRegTot" : 19692,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 7.6969,
+					"InternetAccessTot" : 3486,
+					"InternetNeverPrc" : 83.646,
+					"InternetNeverTot" : 98531,
+					"InternetRegPrc" : 6.244,
+					"InternetRegTot" : 7355.2,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 16.981,
+					"InternetAccessTot" : 15789,
+					"InternetNeverPrc" : 70.888,
+					"InternetNeverTot" : 1.4387e+05,
+					"InternetRegPrc" : 21.506,
+					"InternetRegTot" : 43648,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 1.4508,
+					"InternetAccessTot" : 667.27,
+					"InternetNeverPrc" : 89.988,
+					"InternetNeverTot" : 87103,
+					"InternetRegPrc" : 8.3836,
+					"InternetRegTot" : 8114.8,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 24.603,
+					"InternetAccessTot" : 37885,
+					"InternetNeverPrc" : 65.926,
+					"InternetNeverTot" : 2.3199e+05,
+					"InternetRegPrc" : 25.869,
+					"InternetRegTot" : 91032,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 15.897,
+					"InternetAccessTot" : 11144,
+					"InternetNeverPrc" : 76.905,
+					"InternetNeverTot" : 1.1174e+05,
+					"InternetRegPrc" : 15.799,
+					"InternetRegTot" : 22956,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 1.4047,
+					"InternetAccessTot" : 735.08,
+					"InternetNeverPrc" : 77.861,
+					"InternetNeverTot" : 89094,
+					"InternetRegPrc" : 9.1686,
+					"InternetRegTot" : 10491,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 15.272,
+					"InternetAccessTot" : 11649,
+					"InternetNeverPrc" : 73.83,
+					"InternetNeverTot" : 1.2217e+05,
+					"InternetRegPrc" : 15.948,
+					"InternetRegTot" : 26390,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 18.529,
+					"InternetAccessTot" : 28340,
+					"InternetNeverPrc" : 72.253,
+					"InternetNeverTot" : 2.4691e+05,
+					"InternetRegPrc" : 20.843,
+					"InternetRegTot" : 71229,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 13.879,
+					"InternetAccessTot" : 9802.7,
+					"InternetNeverPrc" : 79.055,
+					"InternetNeverTot" : 1.1867e+05,
+					"InternetRegPrc" : 11.697,
+					"InternetRegTot" : 17558,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 14.346,
+					"InternetAccessTot" : 17545,
+					"InternetNeverPrc" : 73.233,
+					"InternetNeverTot" : 2.0763e+05,
+					"InternetRegPrc" : 17.606,
+					"InternetRegTot" : 49918,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 8.3942,
+					"InternetAccessTot" : 4185,
+					"InternetNeverPrc" : 77.189,
+					"InternetNeverTot" : 80805,
+					"InternetRegPrc" : 18.447,
+					"InternetRegTot" : 19311,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 12.014,
+					"InternetAccessTot" : 14643,
+					"InternetNeverPrc" : 83.089,
+					"InternetNeverTot" : 2.6186e+05,
+					"InternetRegPrc" : 10.366,
+					"InternetRegTot" : 32670,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 5.8285,
+					"InternetAccessTot" : 3309.6,
+					"InternetNeverPrc" : 80.008,
+					"InternetNeverTot" : 91676,
+					"InternetRegPrc" : 13.86,
+					"InternetRegTot" : 15881,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 13.03,
+					"InternetAccessTot" : 5397.2,
+					"InternetNeverPrc" : 79.489,
+					"InternetNeverTot" : 66535,
+					"InternetRegPrc" : 10.02,
+					"InternetRegTot" : 8386.6,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 11.546,
+					"InternetAccessTot" : 10572,
+					"InternetNeverPrc" : 73.919,
+					"InternetNeverTot" : 1.3184e+05,
+					"InternetRegPrc" : 20.126,
+					"InternetRegTot" : 35896,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 36.979,
+					"InternetAccessTot" : 1.6039e+05,
+					"InternetNeverPrc" : 41.551,
+					"InternetNeverTot" : 4.1042e+05,
+					"InternetRegPrc" : 49.754,
+					"InternetRegTot" : 4.9145e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 1.2889,
+					"InternetAccessTot" : 669.39,
+					"InternetNeverPrc" : 94,
+					"InternetNeverTot" : 1.0958e+05,
+					"InternetRegPrc" : 4.0581,
+					"InternetRegTot" : 4730.8,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 4.3567,
+					"InternetAccessTot" : 4537.4,
+					"InternetNeverPrc" : 79.603,
+					"InternetNeverTot" : 1.9329e+05,
+					"InternetRegPrc" : 13.48,
+					"InternetRegTot" : 32731,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 14.152,
+					"InternetAccessTot" : 34236,
+					"InternetNeverPrc" : 71.137,
+					"InternetNeverTot" : 3.9679e+05,
+					"InternetRegPrc" : 21.638,
+					"InternetRegTot" : 1.2069e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 6.6423,
+					"InternetAccessTot" : 3185.4,
+					"InternetNeverPrc" : 82.646,
+					"InternetNeverTot" : 94549,
+					"InternetRegPrc" : 9.4045,
+					"InternetRegTot" : 10759,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 13.955,
+					"InternetAccessTot" : 12318,
+					"InternetNeverPrc" : 76.616,
+					"InternetNeverTot" : 1.415e+05,
+					"InternetRegPrc" : 14.917,
+					"InternetRegTot" : 27549,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}
+			]
+		}, {
+			"Year" : "2007",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 8.066,
+					"InternetAccessTot" : 3650.5,
+					"InternetNeverPrc" : 76.926,
+					"InternetNeverTot" : 69096,
+					"InternetRegPrc" : 20.29,
+					"InternetRegTot" : 18225,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 19.281,
+					"InternetAccessTot" : 14873,
+					"InternetNeverPrc" : 67.183,
+					"InternetNeverTot" : 1.0577e+05,
+					"InternetRegPrc" : 25.16,
+					"InternetRegTot" : 39612,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 6.3937,
+					"InternetAccessTot" : 4169,
+					"InternetNeverPrc" : 78.415,
+					"InternetNeverTot" : 1.111e+05,
+					"InternetRegPrc" : 16.333,
+					"InternetRegTot" : 23140,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 12.311,
+					"InternetAccessTot" : 7614.9,
+					"InternetNeverPrc" : 67.4,
+					"InternetNeverTot" : 80688,
+					"InternetRegPrc" : 26.387,
+					"InternetRegTot" : 31589,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 13.747,
+					"InternetAccessTot" : 13803,
+					"InternetNeverPrc" : 73.397,
+					"InternetNeverTot" : 1.5685e+05,
+					"InternetRegPrc" : 20.312,
+					"InternetRegTot" : 43406,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 13.498,
+					"InternetAccessTot" : 13653,
+					"InternetNeverPrc" : 71.241,
+					"InternetNeverTot" : 1.5096e+05,
+					"InternetRegPrc" : 22.757,
+					"InternetRegTot" : 48221,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 17.366,
+					"InternetAccessTot" : 8784.6,
+					"InternetNeverPrc" : 60.91,
+					"InternetNeverTot" : 58347,
+					"InternetRegPrc" : 33.553,
+					"InternetRegTot" : 32141,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 7.9461,
+					"InternetAccessTot" : 3516.9,
+					"InternetNeverPrc" : 84.832,
+					"InternetNeverTot" : 89534,
+					"InternetRegPrc" : 12.72,
+					"InternetRegTot" : 13425,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 17.281,
+					"InternetAccessTot" : 17685,
+					"InternetNeverPrc" : 67.566,
+					"InternetNeverTot" : 1.4704e+05,
+					"InternetRegPrc" : 27.127,
+					"InternetRegTot" : 59037,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 13.79,
+					"InternetAccessTot" : 6785.1,
+					"InternetNeverPrc" : 81.561,
+					"InternetNeverTot" : 91871,
+					"InternetRegPrc" : 17.621,
+					"InternetRegTot" : 19849,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 26.441,
+					"InternetAccessTot" : 40036,
+					"InternetNeverPrc" : 53.855,
+					"InternetNeverTot" : 1.7287e+05,
+					"InternetRegPrc" : 37.162,
+					"InternetRegTot" : 1.1929e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 9.137,
+					"InternetAccessTot" : 6238.4,
+					"InternetNeverPrc" : 77.041,
+					"InternetNeverTot" : 1.2444e+05,
+					"InternetRegPrc" : 15.335,
+					"InternetRegTot" : 24771,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 6.4632,
+					"InternetAccessTot" : 3439,
+					"InternetNeverPrc" : 64.486,
+					"InternetNeverTot" : 73956,
+					"InternetRegPrc" : 29.888,
+					"InternetRegTot" : 34277,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 15.751,
+					"InternetAccessTot" : 12224,
+					"InternetNeverPrc" : 67.44,
+					"InternetNeverTot" : 1.1673e+05,
+					"InternetRegPrc" : 26.583,
+					"InternetRegTot" : 46012,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 16.077,
+					"InternetAccessTot" : 24179,
+					"InternetNeverPrc" : 65.341,
+					"InternetNeverTot" : 2.1421e+05,
+					"InternetRegPrc" : 25.201,
+					"InternetRegTot" : 82616,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 8.4021,
+					"InternetAccessTot" : 6015.1,
+					"InternetNeverPrc" : 84.419,
+					"InternetNeverTot" : 1.2865e+05,
+					"InternetRegPrc" : 10.584,
+					"InternetRegTot" : 16129,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 18.824,
+					"InternetAccessTot" : 23003,
+					"InternetNeverPrc" : 63.283,
+					"InternetNeverTot" : 1.6842e+05,
+					"InternetRegPrc" : 24.414,
+					"InternetRegTot" : 64974,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 20.679,
+					"InternetAccessTot" : 10640,
+					"InternetNeverPrc" : 67.383,
+					"InternetNeverTot" : 76979,
+					"InternetRegPrc" : 29.1,
+					"InternetRegTot" : 33244,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 12.069,
+					"InternetAccessTot" : 13758,
+					"InternetNeverPrc" : 78.985,
+					"InternetNeverTot" : 2.1066e+05,
+					"InternetRegPrc" : 11.588,
+					"InternetRegTot" : 30906,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 9.785,
+					"InternetAccessTot" : 5561.5,
+					"InternetNeverPrc" : 74.733,
+					"InternetNeverTot" : 82525,
+					"InternetRegPrc" : 22.752,
+					"InternetRegTot" : 25124,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 15.399,
+					"InternetAccessTot" : 7854.2,
+					"InternetNeverPrc" : 70.041,
+					"InternetNeverTot" : 81297,
+					"InternetRegPrc" : 25.87,
+					"InternetRegTot" : 30027,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 13.375,
+					"InternetAccessTot" : 12015,
+					"InternetNeverPrc" : 67.825,
+					"InternetNeverTot" : 1.3091e+05,
+					"InternetRegPrc" : 25.046,
+					"InternetRegTot" : 48344,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 40.669,
+					"InternetAccessTot" : 1.7639e+05,
+					"InternetNeverPrc" : 35.141,
+					"InternetNeverTot" : 3.4905e+05,
+					"InternetRegPrc" : 55.868,
+					"InternetRegTot" : 5.5493e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 10.405,
+					"InternetAccessTot" : 5266,
+					"InternetNeverPrc" : 87.814,
+					"InternetNeverTot" : 1.0331e+05,
+					"InternetRegPrc" : 10.742,
+					"InternetRegTot" : 12638,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 11.469,
+					"InternetAccessTot" : 12151,
+					"InternetNeverPrc" : 73.333,
+					"InternetNeverTot" : 1.7898e+05,
+					"InternetRegPrc" : 19.864,
+					"InternetRegTot" : 48481,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 19.257,
+					"InternetAccessTot" : 45909,
+					"InternetNeverPrc" : 68.718,
+					"InternetNeverTot" : 3.871e+05,
+					"InternetRegPrc" : 24.047,
+					"InternetRegTot" : 1.3546e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 7.9322,
+					"InternetAccessTot" : 3707,
+					"InternetNeverPrc" : 77.686,
+					"InternetNeverTot" : 78638,
+					"InternetRegPrc" : 18.193,
+					"InternetRegTot" : 18416,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 14.428,
+					"InternetAccessTot" : 13361,
+					"InternetNeverPrc" : 67.368,
+					"InternetNeverTot" : 1.3679e+05,
+					"InternetRegPrc" : 26.482,
+					"InternetRegTot" : 53769,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}
+			]
+		}, {
+			"Year" : "2008",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 10.898,
+					"InternetAccessTot" : 5216.3,
+					"InternetNeverPrc" : 62.576,
+					"InternetNeverTot" : 50511,
+					"InternetRegPrc" : 19.921,
+					"InternetRegTot" : 16080,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 15.131,
+					"InternetAccessTot" : 12062,
+					"InternetNeverPrc" : 65.527,
+					"InternetNeverTot" : 1.1236e+05,
+					"InternetRegPrc" : 22.174,
+					"InternetRegTot" : 38021,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 22.103,
+					"InternetAccessTot" : 15531,
+					"InternetNeverPrc" : 77.977,
+					"InternetNeverTot" : 1.1194e+05,
+					"InternetRegPrc" : 19.366,
+					"InternetRegTot" : 27800,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 17.451,
+					"InternetAccessTot" : 9890.9,
+					"InternetNeverPrc" : 62.018,
+					"InternetNeverTot" : 67506,
+					"InternetRegPrc" : 29.809,
+					"InternetRegTot" : 32446,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 18.889,
+					"InternetAccessTot" : 17878,
+					"InternetNeverPrc" : 70.034,
+					"InternetNeverTot" : 1.5505e+05,
+					"InternetRegPrc" : 25.745,
+					"InternetRegTot" : 56997,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 27.87,
+					"InternetAccessTot" : 27631,
+					"InternetNeverPrc" : 52.236,
+					"InternetNeverTot" : 1.1416e+05,
+					"InternetRegPrc" : 37.843,
+					"InternetRegTot" : 82704,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 10.935,
+					"InternetAccessTot" : 6257.6,
+					"InternetNeverPrc" : 60.858,
+					"InternetNeverTot" : 53756,
+					"InternetRegPrc" : 24.819,
+					"InternetRegTot" : 21923,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 11.624,
+					"InternetAccessTot" : 5721,
+					"InternetNeverPrc" : 74.948,
+					"InternetNeverTot" : 70258,
+					"InternetRegPrc" : 18.991,
+					"InternetRegTot" : 17802,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 24.045,
+					"InternetAccessTot" : 23659,
+					"InternetNeverPrc" : 54.358,
+					"InternetNeverTot" : 1.0813e+05,
+					"InternetRegPrc" : 33.19,
+					"InternetRegTot" : 66020,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 19.985,
+					"InternetAccessTot" : 10550,
+					"InternetNeverPrc" : 66.648,
+					"InternetNeverTot" : 67455,
+					"InternetRegPrc" : 29.056,
+					"InternetRegTot" : 29408,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 24.282,
+					"InternetAccessTot" : 34851,
+					"InternetNeverPrc" : 59.09,
+					"InternetNeverTot" : 1.982e+05,
+					"InternetRegPrc" : 31.678,
+					"InternetRegTot" : 1.0626e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 25.11,
+					"InternetAccessTot" : 19349,
+					"InternetNeverPrc" : 66.496,
+					"InternetNeverTot" : 1.1125e+05,
+					"InternetRegPrc" : 27.042,
+					"InternetRegTot" : 45241,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 22.193,
+					"InternetAccessTot" : 10360,
+					"InternetNeverPrc" : 63.049,
+					"InternetNeverTot" : 64953,
+					"InternetRegPrc" : 32.246,
+					"InternetRegTot" : 33220,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 27.424,
+					"InternetAccessTot" : 20487,
+					"InternetNeverPrc" : 68.518,
+					"InternetNeverTot" : 1.2553e+05,
+					"InternetRegPrc" : 24.625,
+					"InternetRegTot" : 45115,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 22.944,
+					"InternetAccessTot" : 35044,
+					"InternetNeverPrc" : 61.517,
+					"InternetNeverTot" : 1.9139e+05,
+					"InternetRegPrc" : 30.378,
+					"InternetRegTot" : 94511,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 16.018,
+					"InternetAccessTot" : 10807,
+					"InternetNeverPrc" : 72.749,
+					"InternetNeverTot" : 1.1791e+05,
+					"InternetRegPrc" : 21.773,
+					"InternetRegTot" : 35289,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 20.135,
+					"InternetAccessTot" : 25305,
+					"InternetNeverPrc" : 63.594,
+					"InternetNeverTot" : 1.6506e+05,
+					"InternetRegPrc" : 28.028,
+					"InternetRegTot" : 72747,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 24.984,
+					"InternetAccessTot" : 13301,
+					"InternetNeverPrc" : 66.712,
+					"InternetNeverTot" : 79957,
+					"InternetRegPrc" : 23.392,
+					"InternetRegTot" : 28036,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 16.633,
+					"InternetAccessTot" : 19691,
+					"InternetNeverPrc" : 64.085,
+					"InternetNeverTot" : 1.6365e+05,
+					"InternetRegPrc" : 20.669,
+					"InternetRegTot" : 52782,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 23.988,
+					"InternetAccessTot" : 13593,
+					"InternetNeverPrc" : 64.486,
+					"InternetNeverTot" : 70691,
+					"InternetRegPrc" : 29.171,
+					"InternetRegTot" : 31978,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 13.365,
+					"InternetAccessTot" : 6642.8,
+					"InternetNeverPrc" : 67.989,
+					"InternetNeverTot" : 77875,
+					"InternetRegPrc" : 24.033,
+					"InternetRegTot" : 27527,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 27.655,
+					"InternetAccessTot" : 24036,
+					"InternetNeverPrc" : 53.096,
+					"InternetNeverTot" : 1.0747e+05,
+					"InternetRegPrc" : 32.125,
+					"InternetRegTot" : 65023,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 47.28,
+					"InternetAccessTot" : 2.0507e+05,
+					"InternetNeverPrc" : 28.326,
+					"InternetNeverTot" : 2.8127e+05,
+					"InternetRegPrc" : 58.275,
+					"InternetRegTot" : 5.7867e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 7.9794,
+					"InternetAccessTot" : 4025.8,
+					"InternetNeverPrc" : 70.031,
+					"InternetNeverTot" : 92523,
+					"InternetRegPrc" : 18.778,
+					"InternetRegTot" : 24809,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 23.028,
+					"InternetAccessTot" : 23712,
+					"InternetNeverPrc" : 57.557,
+					"InternetNeverTot" : 1.408e+05,
+					"InternetRegPrc" : 32.49,
+					"InternetRegTot" : 79483,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 24.378,
+					"InternetAccessTot" : 59186,
+					"InternetNeverPrc" : 59.634,
+					"InternetNeverTot" : 3.4125e+05,
+					"InternetRegPrc" : 29.996,
+					"InternetRegTot" : 1.7165e+05,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 11.915,
+					"InternetAccessTot" : 5922.2,
+					"InternetNeverPrc" : 72.739,
+					"InternetNeverTot" : 66710,
+					"InternetRegPrc" : 24.465,
+					"InternetRegTot" : 22437,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 27.136,
+					"InternetAccessTot" : 23041,
+					"InternetNeverPrc" : 52.138,
+					"InternetNeverTot" : 96111,
+					"InternetRegPrc" : 35.82,
+					"InternetRegTot" : 66031,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}
+			]
+		}, {
+			"Year" : "2009",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 25.323,
+					"InternetAccessTot" : 10616,
+					"InternetNeverPrc" : 56.087,
+					"InternetNeverTot" : 43881,
+					"InternetRegPrc" : 37.316,
+					"InternetRegTot" : 29195,
+					"eGovPrc" : 9.3639,
+					"eGovTot" : 7326
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 26.389,
+					"InternetAccessTot" : 20361,
+					"InternetNeverPrc" : 55.604,
+					"InternetNeverTot" : 83770,
+					"InternetRegPrc" : 37.413,
+					"InternetRegTot" : 56364,
+					"eGovPrc" : 8.0297,
+					"eGovTot" : 12097
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 21.826,
+					"InternetAccessTot" : 14222,
+					"InternetNeverPrc" : 70.89,
+					"InternetNeverTot" : 98762,
+					"InternetRegPrc" : 27.579,
+					"InternetRegTot" : 38422,
+					"eGovPrc" : 0,
+					"eGovTot" : 0
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 19.094,
+					"InternetAccessTot" : 12220,
+					"InternetNeverPrc" : 61.673,
+					"InternetNeverTot" : 67832,
+					"InternetRegPrc" : 31.134,
+					"InternetRegTot" : 34244,
+					"eGovPrc" : 6.504,
+					"eGovTot" : 7153.5
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 28.374,
+					"InternetAccessTot" : 29525,
+					"InternetNeverPrc" : 58.577,
+					"InternetNeverTot" : 1.2784e+05,
+					"InternetRegPrc" : 36.218,
+					"InternetRegTot" : 79040,
+					"eGovPrc" : 12.41,
+					"eGovTot" : 27083
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 23.094,
+					"InternetAccessTot" : 23298,
+					"InternetNeverPrc" : 60.641,
+					"InternetNeverTot" : 1.2027e+05,
+					"InternetRegPrc" : 34.289,
+					"InternetRegTot" : 68005,
+					"eGovPrc" : 4.7981,
+					"eGovTot" : 9516.3
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 22.855,
+					"InternetAccessTot" : 11071,
+					"InternetNeverPrc" : 57.317,
+					"InternetNeverTot" : 63316,
+					"InternetRegPrc" : 37.004,
+					"InternetRegTot" : 40877,
+					"eGovPrc" : 6.9107,
+					"eGovTot" : 7634.1
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 24.742,
+					"InternetAccessTot" : 12695,
+					"InternetNeverPrc" : 57.963,
+					"InternetNeverTot" : 63409,
+					"InternetRegPrc" : 39.24,
+					"InternetRegTot" : 42927,
+					"eGovPrc" : 6.1914,
+					"eGovTot" : 6773.1
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 25.188,
+					"InternetAccessTot" : 25316,
+					"InternetNeverPrc" : 46.564,
+					"InternetNeverTot" : 92675,
+					"InternetRegPrc" : 41.887,
+					"InternetRegTot" : 83367,
+					"eGovPrc" : 11.078,
+					"eGovTot" : 22048
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 20.707,
+					"InternetAccessTot" : 9018.7,
+					"InternetNeverPrc" : 79.207,
+					"InternetNeverTot" : 87187,
+					"InternetRegPrc" : 16.778,
+					"InternetRegTot" : 18469,
+					"eGovPrc" : 3.7042,
+					"eGovTot" : 4077.5
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 28.371,
+					"InternetAccessTot" : 43265,
+					"InternetNeverPrc" : 56.314,
+					"InternetNeverTot" : 1.8732e+05,
+					"InternetRegPrc" : 35.692,
+					"InternetRegTot" : 1.1873e+05,
+					"eGovPrc" : 15.281,
+					"eGovTot" : 50832
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 19.974,
+					"InternetAccessTot" : 14891,
+					"InternetNeverPrc" : 65.327,
+					"InternetNeverTot" : 1.0089e+05,
+					"InternetRegPrc" : 28.932,
+					"InternetRegTot" : 44682,
+					"eGovPrc" : 5.8392,
+					"eGovTot" : 9018
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 20.993,
+					"InternetAccessTot" : 10656,
+					"InternetNeverPrc" : 60.787,
+					"InternetNeverTot" : 80186,
+					"InternetRegPrc" : 28.462,
+					"InternetRegTot" : 37544,
+					"eGovPrc" : 4.7685,
+					"eGovTot" : 6290.2
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 34.741,
+					"InternetAccessTot" : 25352,
+					"InternetNeverPrc" : 50.586,
+					"InternetNeverTot" : 77565,
+					"InternetRegPrc" : 43.229,
+					"InternetRegTot" : 66285,
+					"eGovPrc" : 7.5922,
+					"eGovTot" : 11641
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 31.523,
+					"InternetAccessTot" : 46516,
+					"InternetNeverPrc" : 47.534,
+					"InternetNeverTot" : 1.5475e+05,
+					"InternetRegPrc" : 46.933,
+					"InternetRegTot" : 1.528e+05,
+					"eGovPrc" : 8.8498,
+					"eGovTot" : 28811
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 16.334,
+					"InternetAccessTot" : 11084,
+					"InternetNeverPrc" : 61.089,
+					"InternetNeverTot" : 90341,
+					"InternetRegPrc" : 30.723,
+					"InternetRegTot" : 45434,
+					"eGovPrc" : 13.119,
+					"eGovTot" : 19402
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 26.556,
+					"InternetAccessTot" : 36813,
+					"InternetNeverPrc" : 52.139,
+					"InternetNeverTot" : 1.522e+05,
+					"InternetRegPrc" : 36.232,
+					"InternetRegTot" : 1.0576e+05,
+					"eGovPrc" : 7.5375,
+					"eGovTot" : 22003
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 27.946,
+					"InternetAccessTot" : 12855,
+					"InternetNeverPrc" : 48.267,
+					"InternetNeverTot" : 47048,
+					"InternetRegPrc" : 39.246,
+					"InternetRegTot" : 38255,
+					"eGovPrc" : 6.334,
+					"eGovTot" : 6174
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 20.79,
+					"InternetAccessTot" : 24128,
+					"InternetNeverPrc" : 76.423,
+					"InternetNeverTot" : 2.1398e+05,
+					"InternetRegPrc" : 21.707,
+					"InternetRegTot" : 60779,
+					"eGovPrc" : 4.6867,
+					"eGovTot" : 13123
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 22.886,
+					"InternetAccessTot" : 13510,
+					"InternetNeverPrc" : 59.353,
+					"InternetNeverTot" : 61888,
+					"InternetRegPrc" : 34.758,
+					"InternetRegTot" : 36242,
+					"eGovPrc" : 6.4908,
+					"eGovTot" : 6768
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 22.495,
+					"InternetAccessTot" : 9604.1,
+					"InternetNeverPrc" : 55.557,
+					"InternetNeverTot" : 52720,
+					"InternetRegPrc" : 35.103,
+					"InternetRegTot" : 33310,
+					"eGovPrc" : 6.2518,
+					"eGovTot" : 5932.6
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 24.802,
+					"InternetAccessTot" : 23280,
+					"InternetNeverPrc" : 55.05,
+					"InternetNeverTot" : 1.0866e+05,
+					"InternetRegPrc" : 34.989,
+					"InternetRegTot" : 69063,
+					"eGovPrc" : 7.7964,
+					"eGovTot" : 15389
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 53.039,
+					"InternetAccessTot" : 2.3004e+05,
+					"InternetNeverPrc" : 24.751,
+					"InternetNeverTot" : 2.4602e+05,
+					"InternetRegPrc" : 66.914,
+					"InternetRegTot" : 6.6513e+05,
+					"eGovPrc" : 29.089,
+					"eGovTot" : 2.8915e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 9.1127,
+					"InternetAccessTot" : 3799,
+					"InternetNeverPrc" : 69.714,
+					"InternetNeverTot" : 65801,
+					"InternetRegPrc" : 12.709,
+					"InternetRegTot" : 11995,
+					"eGovPrc" : 4.9923,
+					"eGovTot" : 4712.1
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 23.842,
+					"InternetAccessTot" : 25243,
+					"InternetNeverPrc" : 62.195,
+					"InternetNeverTot" : 1.5474e+05,
+					"InternetRegPrc" : 29.642,
+					"InternetRegTot" : 73750,
+					"eGovPrc" : 5.1857,
+					"eGovTot" : 12902
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 30.145,
+					"InternetAccessTot" : 71781,
+					"InternetNeverPrc" : 57.649,
+					"InternetNeverTot" : 3.3682e+05,
+					"InternetRegPrc" : 36.854,
+					"InternetRegTot" : 2.1533e+05,
+					"eGovPrc" : 8.8121,
+					"eGovTot" : 51486
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 23.676,
+					"InternetAccessTot" : 11564,
+					"InternetNeverPrc" : 57.809,
+					"InternetNeverTot" : 61875,
+					"InternetRegPrc" : 31.622,
+					"InternetRegTot" : 33846,
+					"eGovPrc" : 5.7638,
+					"eGovTot" : 6169.2
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 24.405,
+					"InternetAccessTot" : 23265,
+					"InternetNeverPrc" : 58.534,
+					"InternetNeverTot" : 97488,
+					"InternetRegPrc" : 32.754,
+					"InternetRegTot" : 54552,
+					"eGovPrc" : 9.0567,
+					"eGovTot" : 15084
+				}
+			]
+		}, {
+			"Year" : "2010",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 27.678,
+					"InternetAccessTot" : 12863,
+					"InternetNeverPrc" : 51.198,
+					"InternetNeverTot" : 36180,
+					"InternetRegPrc" : 40.236,
+					"InternetRegTot" : 28433,
+					"eGovPrc" : 17.978,
+					"eGovTot" : 12705
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 26.973,
+					"InternetAccessTot" : 22382,
+					"InternetNeverPrc" : 56.446,
+					"InternetNeverTot" : 83195,
+					"InternetRegPrc" : 37.879,
+					"InternetRegTot" : 55830,
+					"eGovPrc" : 28.122,
+					"eGovTot" : 41448
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 25.194,
+					"InternetAccessTot" : 15280,
+					"InternetNeverPrc" : 64.359,
+					"InternetNeverTot" : 76200,
+					"InternetRegPrc" : 33.014,
+					"InternetRegTot" : 39087,
+					"eGovPrc" : 2.1733,
+					"eGovTot" : 2573.2
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 22.698,
+					"InternetAccessTot" : 14021,
+					"InternetNeverPrc" : 55.444,
+					"InternetNeverTot" : 65527,
+					"InternetRegPrc" : 33.295,
+					"InternetRegTot" : 39349,
+					"eGovPrc" : 22.794,
+					"eGovTot" : 26939
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 27.235,
+					"InternetAccessTot" : 27350,
+					"InternetNeverPrc" : 54.965,
+					"InternetNeverTot" : 1.2659e+05,
+					"InternetRegPrc" : 37.651,
+					"InternetRegTot" : 86714,
+					"eGovPrc" : 20.238,
+					"eGovTot" : 46609
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 29.553,
+					"InternetAccessTot" : 30249,
+					"InternetNeverPrc" : 54.997,
+					"InternetNeverTot" : 1.1739e+05,
+					"InternetRegPrc" : 39.887,
+					"InternetRegTot" : 85141,
+					"eGovPrc" : 20.534,
+					"eGovTot" : 43831
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 33.454,
+					"InternetAccessTot" : 17064,
+					"InternetNeverPrc" : 38.968,
+					"InternetNeverTot" : 36477,
+					"InternetRegPrc" : 49.409,
+					"InternetRegTot" : 46251,
+					"eGovPrc" : 43.849,
+					"eGovTot" : 41046
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 27.903,
+					"InternetAccessTot" : 11967,
+					"InternetNeverPrc" : 53.985,
+					"InternetNeverTot" : 58186,
+					"InternetRegPrc" : 40.16,
+					"InternetRegTot" : 43285,
+					"eGovPrc" : 13.94,
+					"eGovTot" : 15024
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 34.805,
+					"InternetAccessTot" : 35951,
+					"InternetNeverPrc" : 55.479,
+					"InternetNeverTot" : 1.1269e+05,
+					"InternetRegPrc" : 41.519,
+					"InternetRegTot" : 84335,
+					"eGovPrc" : 17.883,
+					"eGovTot" : 36325
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 20.801,
+					"InternetAccessTot" : 9392.6,
+					"InternetNeverPrc" : 69.314,
+					"InternetNeverTot" : 69547,
+					"InternetRegPrc" : 26.195,
+					"InternetRegTot" : 26283,
+					"eGovPrc" : 20.489,
+					"eGovTot" : 20558
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 28.12,
+					"InternetAccessTot" : 47142,
+					"InternetNeverPrc" : 56.842,
+					"InternetNeverTot" : 2.0211e+05,
+					"InternetRegPrc" : 38.074,
+					"InternetRegTot" : 1.3537e+05,
+					"eGovPrc" : 30.921,
+					"eGovTot" : 1.0994e+05
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 24.107,
+					"InternetAccessTot" : 17105,
+					"InternetNeverPrc" : 56.651,
+					"InternetNeverTot" : 91028,
+					"InternetRegPrc" : 33.463,
+					"InternetRegTot" : 53769,
+					"eGovPrc" : 16.327,
+					"eGovTot" : 26234
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 20.232,
+					"InternetAccessTot" : 8450.8,
+					"InternetNeverPrc" : 56.565,
+					"InternetNeverTot" : 64501,
+					"InternetRegPrc" : 31.478,
+					"InternetRegTot" : 35894,
+					"eGovPrc" : 8.8571,
+					"eGovTot" : 10100
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 25.193,
+					"InternetAccessTot" : 17740,
+					"InternetNeverPrc" : 59.639,
+					"InternetNeverTot" : 81879,
+					"InternetRegPrc" : 39.181,
+					"InternetRegTot" : 53792,
+					"eGovPrc" : 6.3498,
+					"eGovTot" : 8717.7
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 40.578,
+					"InternetAccessTot" : 57842,
+					"InternetNeverPrc" : 44.018,
+					"InternetNeverTot" : 1.4865e+05,
+					"InternetRegPrc" : 44.184,
+					"InternetRegTot" : 1.4921e+05,
+					"eGovPrc" : 30.647,
+					"eGovTot" : 1.035e+05
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 17.465,
+					"InternetAccessTot" : 11682,
+					"InternetNeverPrc" : 75.814,
+					"InternetNeverTot" : 1.3247e+05,
+					"InternetRegPrc" : 16.436,
+					"InternetRegTot" : 28719,
+					"eGovPrc" : 7.3625,
+					"eGovTot" : 12865
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 31.725,
+					"InternetAccessTot" : 44654,
+					"InternetNeverPrc" : 54.663,
+					"InternetNeverTot" : 1.3729e+05,
+					"InternetRegPrc" : 38.887,
+					"InternetRegTot" : 97667,
+					"eGovPrc" : 20.29,
+					"eGovTot" : 50960
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 37.946,
+					"InternetAccessTot" : 18921,
+					"InternetNeverPrc" : 57.044,
+					"InternetNeverTot" : 52254,
+					"InternetRegPrc" : 37.423,
+					"InternetRegTot" : 34281,
+					"eGovPrc" : 23.132,
+					"eGovTot" : 21190
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 24.341,
+					"InternetAccessTot" : 27127,
+					"InternetNeverPrc" : 62.336,
+					"InternetNeverTot" : 1.6748e+05,
+					"InternetRegPrc" : 34.138,
+					"InternetRegTot" : 91721,
+					"eGovPrc" : 28.95,
+					"eGovTot" : 77782
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 21.361,
+					"InternetAccessTot" : 12300,
+					"InternetNeverPrc" : 62.908,
+					"InternetNeverTot" : 71126,
+					"InternetRegPrc" : 30.891,
+					"InternetRegTot" : 34926,
+					"eGovPrc" : 18.937,
+					"eGovTot" : 21411
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 15.448,
+					"InternetAccessTot" : 7864.3,
+					"InternetNeverPrc" : 64.41,
+					"InternetNeverTot" : 70102,
+					"InternetRegPrc" : 27.537,
+					"InternetRegTot" : 29971,
+					"eGovPrc" : 16.012,
+					"eGovTot" : 17427
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 33.365,
+					"InternetAccessTot" : 30601,
+					"InternetNeverPrc" : 48.581,
+					"InternetNeverTot" : 87214,
+					"InternetRegPrc" : 43.342,
+					"InternetRegTot" : 77810,
+					"eGovPrc" : 22.491,
+					"eGovTot" : 40377
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 57.058,
+					"InternetAccessTot" : 2.4748e+05,
+					"InternetNeverPrc" : 23.471,
+					"InternetNeverTot" : 2.3252e+05,
+					"InternetRegPrc" : 68.018,
+					"InternetRegTot" : 6.7381e+05,
+					"eGovPrc" : 37.81,
+					"eGovTot" : 3.7456e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 11.545,
+					"InternetAccessTot" : 5445.2,
+					"InternetNeverPrc" : 72.904,
+					"InternetNeverTot" : 92902,
+					"InternetRegPrc" : 20.802,
+					"InternetRegTot" : 26508,
+					"eGovPrc" : 19.64,
+					"eGovTot" : 25028
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 25.885,
+					"InternetAccessTot" : 26531,
+					"InternetNeverPrc" : 59.067,
+					"InternetNeverTot" : 1.2916e+05,
+					"InternetRegPrc" : 34.823,
+					"InternetRegTot" : 76145,
+					"eGovPrc" : 22.209,
+					"eGovTot" : 48564
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 35.25,
+					"InternetAccessTot" : 85305,
+					"InternetNeverPrc" : 52.227,
+					"InternetNeverTot" : 2.9115e+05,
+					"InternetRegPrc" : 38.988,
+					"InternetRegTot" : 2.1735e+05,
+					"eGovPrc" : 25.258,
+					"eGovTot" : 1.4081e+05
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 32.263,
+					"InternetAccessTot" : 13553,
+					"InternetNeverPrc" : 59.77,
+					"InternetNeverTot" : 66393,
+					"InternetRegPrc" : 35.994,
+					"InternetRegTot" : 39982,
+					"eGovPrc" : 15.458,
+					"eGovTot" : 17170
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 26.363,
+					"InternetAccessTot" : 25359,
+					"InternetNeverPrc" : 63.2,
+					"InternetNeverTot" : 1.0958e+05,
+					"InternetRegPrc" : 31.782,
+					"InternetRegTot" : 55104,
+					"eGovPrc" : 17.602,
+					"eGovTot" : 30518
+				}
+			]
+		}, {
+			"Year" : "2011",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 46.627,
+					"InternetAccessTot" : 16753,
+					"InternetNeverPrc" : 44.415,
+					"InternetNeverTot" : 32623,
+					"InternetRegPrc" : 49.679,
+					"InternetRegTot" : 36490,
+					"eGovPrc" : 22.906,
+					"eGovTot" : 16825
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 34.467,
+					"InternetAccessTot" : 22652,
+					"InternetNeverPrc" : 50.104,
+					"InternetNeverTot" : 68965,
+					"InternetRegPrc" : 39.107,
+					"InternetRegTot" : 53829,
+					"eGovPrc" : 20.959,
+					"eGovTot" : 28849
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 30.282,
+					"InternetAccessTot" : 15172,
+					"InternetNeverPrc" : 58.133,
+					"InternetNeverTot" : 60044,
+					"InternetRegPrc" : 39.317,
+					"InternetRegTot" : 40609,
+					"eGovPrc" : 13.692,
+					"eGovTot" : 14142
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 29.039,
+					"InternetAccessTot" : 15008,
+					"InternetNeverPrc" : 50.972,
+					"InternetNeverTot" : 55175,
+					"InternetRegPrc" : 37.941,
+					"InternetRegTot" : 41069,
+					"eGovPrc" : 11.366,
+					"eGovTot" : 12303
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 35.788,
+					"InternetAccessTot" : 33575,
+					"InternetNeverPrc" : 58.312,
+					"InternetNeverTot" : 1.1558e+05,
+					"InternetRegPrc" : 35.421,
+					"InternetRegTot" : 70207,
+					"eGovPrc" : 26.015,
+					"eGovTot" : 51565
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 45.009,
+					"InternetAccessTot" : 41050,
+					"InternetNeverPrc" : 44.835,
+					"InternetNeverTot" : 84757,
+					"InternetRegPrc" : 46.033,
+					"InternetRegTot" : 87023,
+					"eGovPrc" : 19.205,
+					"eGovTot" : 36306
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 39.797,
+					"InternetAccessTot" : 18101,
+					"InternetNeverPrc" : 53.324,
+					"InternetNeverTot" : 48875,
+					"InternetRegPrc" : 39.683,
+					"InternetRegTot" : 36372,
+					"eGovPrc" : 35.987,
+					"eGovTot" : 32984
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 42.216,
+					"InternetAccessTot" : 17350,
+					"InternetNeverPrc" : 46.412,
+					"InternetNeverTot" : 44112,
+					"InternetRegPrc" : 50.378,
+					"InternetRegTot" : 47881,
+					"eGovPrc" : 41.091,
+					"eGovTot" : 39054
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 43.158,
+					"InternetAccessTot" : 36396,
+					"InternetNeverPrc" : 52.725,
+					"InternetNeverTot" : 94175,
+					"InternetRegPrc" : 41.374,
+					"InternetRegTot" : 73899,
+					"eGovPrc" : 19.555,
+					"eGovTot" : 34929
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 39.963,
+					"InternetAccessTot" : 15903,
+					"InternetNeverPrc" : 54.504,
+					"InternetNeverTot" : 49826,
+					"InternetRegPrc" : 33.085,
+					"InternetRegTot" : 30245,
+					"eGovPrc" : 20.655,
+					"eGovTot" : 18882
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 40.106,
+					"InternetAccessTot" : 67613,
+					"InternetNeverPrc" : 50.286,
+					"InternetNeverTot" : 1.7895e+05,
+					"InternetRegPrc" : 42.148,
+					"InternetRegTot" : 1.4998e+05,
+					"eGovPrc" : 32.23,
+					"eGovTot" : 1.1469e+05
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 36.213,
+					"InternetAccessTot" : 23172,
+					"InternetNeverPrc" : 55.124,
+					"InternetNeverTot" : 79116,
+					"InternetRegPrc" : 34.475,
+					"InternetRegTot" : 49480,
+					"eGovPrc" : 16.043,
+					"eGovTot" : 23025
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 24.323,
+					"InternetAccessTot" : 9938.7,
+					"InternetNeverPrc" : 61.576,
+					"InternetNeverTot" : 55634,
+					"InternetRegPrc" : 25.251,
+					"InternetRegTot" : 22814,
+					"eGovPrc" : 21.14,
+					"eGovTot" : 19100
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 33.736,
+					"InternetAccessTot" : 20724,
+					"InternetNeverPrc" : 62.909,
+					"InternetNeverTot" : 84687,
+					"InternetRegPrc" : 32.729,
+					"InternetRegTot" : 44059,
+					"eGovPrc" : 6.9878,
+					"eGovTot" : 9406.8
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 47.262,
+					"InternetAccessTot" : 68161,
+					"InternetNeverPrc" : 43.408,
+					"InternetNeverTot" : 1.3476e+05,
+					"InternetRegPrc" : 46.178,
+					"InternetRegTot" : 1.4336e+05,
+					"eGovPrc" : 22.476,
+					"eGovTot" : 69780
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 36.47,
+					"InternetAccessTot" : 23320,
+					"InternetNeverPrc" : 60.927,
+					"InternetNeverTot" : 86739,
+					"InternetRegPrc" : 31.771,
+					"InternetRegTot" : 45232,
+					"eGovPrc" : 5.8829,
+					"eGovTot" : 8375.4
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 40.446,
+					"InternetAccessTot" : 46911,
+					"InternetNeverPrc" : 47.978,
+					"InternetNeverTot" : 1.1816e+05,
+					"InternetRegPrc" : 44.667,
+					"InternetRegTot" : 1.1001e+05,
+					"eGovPrc" : 22.67,
+					"eGovTot" : 55832
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 40.68,
+					"InternetAccessTot" : 18815,
+					"InternetNeverPrc" : 47.796,
+					"InternetNeverTot" : 46331,
+					"InternetRegPrc" : 43.387,
+					"InternetRegTot" : 42057,
+					"eGovPrc" : 23.727,
+					"eGovTot" : 23000
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 42.291,
+					"InternetAccessTot" : 43624,
+					"InternetNeverPrc" : 56.082,
+					"InternetNeverTot" : 1.3699e+05,
+					"InternetRegPrc" : 38.838,
+					"InternetRegTot" : 94867,
+					"eGovPrc" : 21.567,
+					"eGovTot" : 52679
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 35.161,
+					"InternetAccessTot" : 17361,
+					"InternetNeverPrc" : 59.425,
+					"InternetNeverTot" : 60877,
+					"InternetRegPrc" : 32.696,
+					"InternetRegTot" : 33496,
+					"eGovPrc" : 23.591,
+					"eGovTot" : 24168
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 35.038,
+					"InternetAccessTot" : 16884,
+					"InternetNeverPrc" : 51.713,
+					"InternetNeverTot" : 52032,
+					"InternetRegPrc" : 40.65,
+					"InternetRegTot" : 40901,
+					"eGovPrc" : 26.758,
+					"eGovTot" : 26923
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 48.741,
+					"InternetAccessTot" : 41405,
+					"InternetNeverPrc" : 41.86,
+					"InternetNeverTot" : 77320,
+					"InternetRegPrc" : 51.073,
+					"InternetRegTot" : 94336,
+					"eGovPrc" : 24.91,
+					"eGovTot" : 46011
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 66.981,
+					"InternetAccessTot" : 3.0977e+05,
+					"InternetNeverPrc" : 18.658,
+					"InternetNeverTot" : 1.7555e+05,
+					"InternetRegPrc" : 74.287,
+					"InternetRegTot" : 6.9895e+05,
+					"eGovPrc" : 50.6,
+					"eGovTot" : 4.7609e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 29.709,
+					"InternetAccessTot" : 13902,
+					"InternetNeverPrc" : 75.211,
+					"InternetNeverTot" : 87116,
+					"InternetRegPrc" : 19.905,
+					"InternetRegTot" : 23056,
+					"eGovPrc" : 14.052,
+					"eGovTot" : 16276
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 38.684,
+					"InternetAccessTot" : 34404,
+					"InternetNeverPrc" : 49.232,
+					"InternetNeverTot" : 1.0138e+05,
+					"InternetRegPrc" : 43.636,
+					"InternetRegTot" : 89860,
+					"eGovPrc" : 11.274,
+					"eGovTot" : 23216
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 47.458,
+					"InternetAccessTot" : 1.0781e+05,
+					"InternetNeverPrc" : 42.765,
+					"InternetNeverTot" : 2.1749e+05,
+					"InternetRegPrc" : 45.742,
+					"InternetRegTot" : 2.3263e+05,
+					"eGovPrc" : 15.055,
+					"eGovTot" : 76566
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 31.293,
+					"InternetAccessTot" : 13617,
+					"InternetNeverPrc" : 57.003,
+					"InternetNeverTot" : 54318,
+					"InternetRegPrc" : 33.483,
+					"InternetRegTot" : 31906,
+					"eGovPrc" : 22.784,
+					"eGovTot" : 21711
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 41.343,
+					"InternetAccessTot" : 33638,
+					"InternetNeverPrc" : 56.63,
+					"InternetNeverTot" : 1.0344e+05,
+					"InternetRegPrc" : 39.15,
+					"InternetRegTot" : 71513,
+					"eGovPrc" : 9.6481,
+					"eGovTot" : 17624
+				}
+			]
+		}, {
+			"Year" : "2012",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 33.736,
+					"InternetAccessTot" : 12995,
+					"InternetNeverPrc" : 55.539,
+					"InternetNeverTot" : 38026,
+					"InternetRegPrc" : 37.646,
+					"InternetRegTot" : 25775,
+					"eGovPrc" : 26.622,
+					"eGovTot" : 18227
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 45.767,
+					"InternetAccessTot" : 32556,
+					"InternetNeverPrc" : 50.329,
+					"InternetNeverTot" : 73312,
+					"InternetRegPrc" : 46.213,
+					"InternetRegTot" : 67317,
+					"eGovPrc" : 22.594,
+					"eGovTot" : 32912
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 33.708,
+					"InternetAccessTot" : 17807,
+					"InternetNeverPrc" : 58.43,
+					"InternetNeverTot" : 63087,
+					"InternetRegPrc" : 32.78,
+					"InternetRegTot" : 35392,
+					"eGovPrc" : 15.775,
+					"eGovTot" : 17032
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 37.543,
+					"InternetAccessTot" : 18724,
+					"InternetNeverPrc" : 51.906,
+					"InternetNeverTot" : 55203,
+					"InternetRegPrc" : 37.106,
+					"InternetRegTot" : 39463,
+					"eGovPrc" : 19.522,
+					"eGovTot" : 20762
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 37.327,
+					"InternetAccessTot" : 37278,
+					"InternetNeverPrc" : 61.567,
+					"InternetNeverTot" : 1.2539e+05,
+					"InternetRegPrc" : 33.928,
+					"InternetRegTot" : 69099,
+					"eGovPrc" : 15.594,
+					"eGovTot" : 31759
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 41.021,
+					"InternetAccessTot" : 45206,
+					"InternetNeverPrc" : 50.536,
+					"InternetNeverTot" : 1.0832e+05,
+					"InternetRegPrc" : 40.537,
+					"InternetRegTot" : 86888,
+					"eGovPrc" : 17.923,
+					"eGovTot" : 38416
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 34.761,
+					"InternetAccessTot" : 13534,
+					"InternetNeverPrc" : 44.754,
+					"InternetNeverTot" : 28729,
+					"InternetRegPrc" : 44.785,
+					"InternetRegTot" : 28749,
+					"eGovPrc" : 20.881,
+					"eGovTot" : 13404
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 58.1,
+					"InternetAccessTot" : 26997,
+					"InternetNeverPrc" : 36.463,
+					"InternetNeverTot" : 34664,
+					"InternetRegPrc" : 51.898,
+					"InternetRegTot" : 49338,
+					"eGovPrc" : 19.649,
+					"eGovTot" : 18680
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 51.4,
+					"InternetAccessTot" : 45778,
+					"InternetNeverPrc" : 42.304,
+					"InternetNeverTot" : 81803,
+					"InternetRegPrc" : 53.526,
+					"InternetRegTot" : 1.035e+05,
+					"eGovPrc" : 28.466,
+					"eGovTot" : 55043
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 56.548,
+					"InternetAccessTot" : 23928,
+					"InternetNeverPrc" : 41.63,
+					"InternetNeverTot" : 41735,
+					"InternetRegPrc" : 51.015,
+					"InternetRegTot" : 51143,
+					"eGovPrc" : 18.774,
+					"eGovTot" : 18821
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 51.32,
+					"InternetAccessTot" : 86393,
+					"InternetNeverPrc" : 43.766,
+					"InternetNeverTot" : 1.5394e+05,
+					"InternetRegPrc" : 48.232,
+					"InternetRegTot" : 1.6965e+05,
+					"eGovPrc" : 32.013,
+					"eGovTot" : 1.126e+05
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 49.738,
+					"InternetAccessTot" : 34766,
+					"InternetNeverPrc" : 44.32,
+					"InternetNeverTot" : 66188,
+					"InternetRegPrc" : 48.513,
+					"InternetRegTot" : 72450,
+					"eGovPrc" : 22.188,
+					"eGovTot" : 33136
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 38.3,
+					"InternetAccessTot" : 19357,
+					"InternetNeverPrc" : 56.015,
+					"InternetNeverTot" : 57216,
+					"InternetRegPrc" : 37.52,
+					"InternetRegTot" : 38324,
+					"eGovPrc" : 21.126,
+					"eGovTot" : 21579
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 44.7,
+					"InternetAccessTot" : 30373,
+					"InternetNeverPrc" : 51.122,
+					"InternetNeverTot" : 73532,
+					"InternetRegPrc" : 41.471,
+					"InternetRegTot" : 59651,
+					"eGovPrc" : 19.527,
+					"eGovTot" : 28087
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 53.482,
+					"InternetAccessTot" : 78418,
+					"InternetNeverPrc" : 38.807,
+					"InternetNeverTot" : 1.1692e+05,
+					"InternetRegPrc" : 52.449,
+					"InternetRegTot" : 1.5802e+05,
+					"eGovPrc" : 30.204,
+					"eGovTot" : 90999
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 36.991,
+					"InternetAccessTot" : 25511,
+					"InternetNeverPrc" : 50.674,
+					"InternetNeverTot" : 73882,
+					"InternetRegPrc" : 38.605,
+					"InternetRegTot" : 56286,
+					"eGovPrc" : 19.268,
+					"eGovTot" : 28093
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 53.4,
+					"InternetAccessTot" : 68448,
+					"InternetNeverPrc" : 38.502,
+					"InternetNeverTot" : 1.0512e+05,
+					"InternetRegPrc" : 50.251,
+					"InternetRegTot" : 1.3719e+05,
+					"eGovPrc" : 28.404,
+					"eGovTot" : 77549
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 46,
+					"InternetAccessTot" : 21645,
+					"InternetNeverPrc" : 41.331,
+					"InternetNeverTot" : 40179,
+					"InternetRegPrc" : 53.655,
+					"InternetRegTot" : 52160,
+					"eGovPrc" : 25.769,
+					"eGovTot" : 25051
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 54.9,
+					"InternetAccessTot" : 61109,
+					"InternetNeverPrc" : 47.561,
+					"InternetNeverTot" : 1.1865e+05,
+					"InternetRegPrc" : 48.006,
+					"InternetRegTot" : 1.1976e+05,
+					"eGovPrc" : 27.088,
+					"eGovTot" : 67577
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 31.7,
+					"InternetAccessTot" : 16185,
+					"InternetNeverPrc" : 58.089,
+					"InternetNeverTot" : 58261,
+					"InternetRegPrc" : 32.181,
+					"InternetRegTot" : 32276,
+					"eGovPrc" : 16.037,
+					"eGovTot" : 16085
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 42.3,
+					"InternetAccessTot" : 21012,
+					"InternetNeverPrc" : 48.723,
+					"InternetNeverTot" : 49797,
+					"InternetRegPrc" : 49.045,
+					"InternetRegTot" : 50126,
+					"eGovPrc" : 27.782,
+					"eGovTot" : 28394
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 49.2,
+					"InternetAccessTot" : 44126,
+					"InternetNeverPrc" : 45.818,
+					"InternetNeverTot" : 88637,
+					"InternetRegPrc" : 47.499,
+					"InternetRegTot" : 91890,
+					"eGovPrc" : 23.298,
+					"eGovTot" : 45071
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 66.2,
+					"InternetAccessTot" : 3.5171e+05,
+					"InternetNeverPrc" : 22.634,
+					"InternetNeverTot" : 2.3301e+05,
+					"InternetRegPrc" : 70.053,
+					"InternetRegTot" : 7.212e+05,
+					"eGovPrc" : 40.299,
+					"eGovTot" : 4.1487e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 54,
+					"InternetAccessTot" : 26901,
+					"InternetNeverPrc" : 54.959,
+					"InternetNeverTot" : 71486,
+					"InternetRegPrc" : 43.946,
+					"InternetRegTot" : 57163,
+					"eGovPrc" : 16.469,
+					"eGovTot" : 21422
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 40.4,
+					"InternetAccessTot" : 38352,
+					"InternetNeverPrc" : 51.067,
+					"InternetNeverTot" : 97969,
+					"InternetRegPrc" : 39.115,
+					"InternetRegTot" : 75040,
+					"eGovPrc" : 16.322,
+					"eGovTot" : 31312
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 55.1,
+					"InternetAccessTot" : 1.3742e+05,
+					"InternetNeverPrc" : 37.12,
+					"InternetNeverTot" : 2.0395e+05,
+					"InternetRegPrc" : 52.532,
+					"InternetRegTot" : 2.8863e+05,
+					"eGovPrc" : 26.881,
+					"eGovTot" : 1.4769e+05
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 45.286,
+					"InternetAccessTot" : 22569,
+					"InternetNeverPrc" : 49.329,
+					"InternetNeverTot" : 50426,
+					"InternetRegPrc" : 43.823,
+					"InternetRegTot" : 44797,
+					"eGovPrc" : 24.098,
+					"eGovTot" : 24634
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 47.5,
+					"InternetAccessTot" : 34579,
+					"InternetNeverPrc" : 46.496,
+					"InternetNeverTot" : 75803,
+					"InternetRegPrc" : 45.51,
+					"InternetRegTot" : 74196,
+					"eGovPrc" : 20.11,
+					"eGovTot" : 32786
+				}
+			]
+		}, {
+			"Year" : "2013",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 44,
+					"InternetAccessTot" : 17360,
+					"InternetNeverPrc" : 40.759,
+					"InternetNeverTot" : 27065,
+					"InternetRegPrc" : 43.244,
+					"InternetRegTot" : 28715,
+					"eGovPrc" : 10.977,
+					"eGovTot" : 7288.8
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 48.2,
+					"InternetAccessTot" : 34061,
+					"InternetNeverPrc" : 41.546,
+					"InternetNeverTot" : 61755,
+					"InternetRegPrc" : 49.788,
+					"InternetRegTot" : 74007,
+					"eGovPrc" : 19.398,
+					"eGovTot" : 28835
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 34.6,
+					"InternetAccessTot" : 20507,
+					"InternetNeverPrc" : 50.071,
+					"InternetNeverTot" : 57781,
+					"InternetRegPrc" : 35.163,
+					"InternetRegTot" : 40578,
+					"eGovPrc" : 10.957,
+					"eGovTot" : 12644
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 36.4,
+					"InternetAccessTot" : 19060,
+					"InternetNeverPrc" : 51.063,
+					"InternetNeverTot" : 53789,
+					"InternetRegPrc" : 40.012,
+					"InternetRegTot" : 42148,
+					"eGovPrc" : 12.054,
+					"eGovTot" : 12697
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 47.6,
+					"InternetAccessTot" : 39098,
+					"InternetNeverPrc" : 49.155,
+					"InternetNeverTot" : 91368,
+					"InternetRegPrc" : 42.945,
+					"InternetRegTot" : 79825,
+					"eGovPrc" : 14.37,
+					"eGovTot" : 26711
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 46.6,
+					"InternetAccessTot" : 47549,
+					"InternetNeverPrc" : 43.78,
+					"InternetNeverTot" : 87874,
+					"InternetRegPrc" : 45.961,
+					"InternetRegTot" : 92252,
+					"eGovPrc" : 16.685,
+					"eGovTot" : 33491
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 48.2,
+					"InternetAccessTot" : 19709,
+					"InternetNeverPrc" : 43.764,
+					"InternetNeverTot" : 39972,
+					"InternetRegPrc" : 48.577,
+					"InternetRegTot" : 44368,
+					"eGovPrc" : 19.699,
+					"eGovTot" : 17992
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 51.2,
+					"InternetAccessTot" : 23473,
+					"InternetNeverPrc" : 41.116,
+					"InternetNeverTot" : 40919,
+					"InternetRegPrc" : 51.15,
+					"InternetRegTot" : 50905,
+					"eGovPrc" : 18.846,
+					"eGovTot" : 18756
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 57.6,
+					"InternetAccessTot" : 53361,
+					"InternetNeverPrc" : 39.323,
+					"InternetNeverTot" : 70480,
+					"InternetRegPrc" : 54.499,
+					"InternetRegTot" : 97680,
+					"eGovPrc" : 21.14,
+					"eGovTot" : 37890
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 37.6,
+					"InternetAccessTot" : 14598,
+					"InternetNeverPrc" : 50.077,
+					"InternetNeverTot" : 44343,
+					"InternetRegPrc" : 38.588,
+					"InternetRegTot" : 34170,
+					"eGovPrc" : 16.365,
+					"eGovTot" : 14491
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 57.1,
+					"InternetAccessTot" : 95516,
+					"InternetNeverPrc" : 42.323,
+					"InternetNeverTot" : 1.4438e+05,
+					"InternetRegPrc" : 51.603,
+					"InternetRegTot" : 1.7604e+05,
+					"eGovPrc" : 20.428,
+					"eGovTot" : 69688
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 54.1,
+					"InternetAccessTot" : 39253,
+					"InternetNeverPrc" : 46.801,
+					"InternetNeverTot" : 78690,
+					"InternetRegPrc" : 44.449,
+					"InternetRegTot" : 74736,
+					"eGovPrc" : 14.021,
+					"eGovTot" : 23574
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 29.4,
+					"InternetAccessTot" : 13284,
+					"InternetNeverPrc" : 62.707,
+					"InternetNeverTot" : 56265,
+					"InternetRegPrc" : 33.018,
+					"InternetRegTot" : 29625,
+					"eGovPrc" : 10.798,
+					"eGovTot" : 9688.8
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 49.8,
+					"InternetAccessTot" : 32417,
+					"InternetNeverPrc" : 41.568,
+					"InternetNeverTot" : 59217,
+					"InternetRegPrc" : 52.15,
+					"InternetRegTot" : 74292,
+					"eGovPrc" : 13.313,
+					"eGovTot" : 18965
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 44.8,
+					"InternetAccessTot" : 65557,
+					"InternetNeverPrc" : 42.505,
+					"InternetNeverTot" : 1.2927e+05,
+					"InternetRegPrc" : 44.635,
+					"InternetRegTot" : 1.3575e+05,
+					"eGovPrc" : 18.724,
+					"eGovTot" : 56947
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 41.1,
+					"InternetAccessTot" : 27812,
+					"InternetNeverPrc" : 50.171,
+					"InternetNeverTot" : 67790,
+					"InternetRegPrc" : 44.67,
+					"InternetRegTot" : 60357,
+					"eGovPrc" : 15.048,
+					"eGovTot" : 20332
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 52.3,
+					"InternetAccessTot" : 64402,
+					"InternetNeverPrc" : 43.487,
+					"InternetNeverTot" : 1.2032e+05,
+					"InternetRegPrc" : 46.575,
+					"InternetRegTot" : 1.2886e+05,
+					"eGovPrc" : 23.801,
+					"eGovTot" : 65853
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 44.8,
+					"InternetAccessTot" : 19932,
+					"InternetNeverPrc" : 39.91,
+					"InternetNeverTot" : 37623,
+					"InternetRegPrc" : 53.295,
+					"InternetRegTot" : 50241,
+					"eGovPrc" : 13.534,
+					"eGovTot" : 12758
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 60.5,
+					"InternetAccessTot" : 68567,
+					"InternetNeverPrc" : 40.438,
+					"InternetNeverTot" : 1.0508e+05,
+					"InternetRegPrc" : 51.1,
+					"InternetRegTot" : 1.3278e+05,
+					"eGovPrc" : 19.513,
+					"eGovTot" : 50705
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 52.4,
+					"InternetAccessTot" : 26110,
+					"InternetNeverPrc" : 49.091,
+					"InternetNeverTot" : 55913,
+					"InternetRegPrc" : 48.63,
+					"InternetRegTot" : 55387,
+					"eGovPrc" : 14.992,
+					"eGovTot" : 17076
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 48.4,
+					"InternetAccessTot" : 21977,
+					"InternetNeverPrc" : 48.206,
+					"InternetNeverTot" : 42864,
+					"InternetRegPrc" : 46.953,
+					"InternetRegTot" : 41750,
+					"eGovPrc" : 11.569,
+					"eGovTot" : 10287
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 44.1,
+					"InternetAccessTot" : 38086,
+					"InternetNeverPrc" : 53.002,
+					"InternetNeverTot" : 92443,
+					"InternetRegPrc" : 40.125,
+					"InternetRegTot" : 69984,
+					"eGovPrc" : 10.401,
+					"eGovTot" : 18141
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 70.9,
+					"InternetAccessTot" : 3.716e+05,
+					"InternetNeverPrc" : 20.596,
+					"InternetNeverTot" : 2.1219e+05,
+					"InternetRegPrc" : 73.508,
+					"InternetRegTot" : 7.573e+05,
+					"eGovPrc" : 45.081,
+					"eGovTot" : 4.6444e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 45.8,
+					"InternetAccessTot" : 24172,
+					"InternetNeverPrc" : 52.005,
+					"InternetNeverTot" : 61728,
+					"InternetRegPrc" : 34.968,
+					"InternetRegTot" : 41506,
+					"eGovPrc" : 10.567,
+					"eGovTot" : 12543
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 36.1,
+					"InternetAccessTot" : 31848,
+					"InternetNeverPrc" : 57.978,
+					"InternetNeverTot" : 1.2036e+05,
+					"InternetRegPrc" : 27.287,
+					"InternetRegTot" : 56647,
+					"eGovPrc" : 12.269,
+					"eGovTot" : 25470
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 60.7,
+					"InternetAccessTot" : 1.5381e+05,
+					"InternetNeverPrc" : 38.784,
+					"InternetNeverTot" : 2.1543e+05,
+					"InternetRegPrc" : 52.504,
+					"InternetRegTot" : 2.9165e+05,
+					"eGovPrc" : 24.044,
+					"eGovTot" : 1.3356e+05
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 45.2,
+					"InternetAccessTot" : 19043,
+					"InternetNeverPrc" : 46.726,
+					"InternetNeverTot" : 40156,
+					"InternetRegPrc" : 50.357,
+					"InternetRegTot" : 43277,
+					"eGovPrc" : 15.158,
+					"eGovTot" : 13026
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 54.2,
+					"InternetAccessTot" : 37781,
+					"InternetNeverPrc" : 43.281,
+					"InternetNeverTot" : 68766,
+					"InternetRegPrc" : 49.45,
+					"InternetRegTot" : 78567,
+					"eGovPrc" : 22.869,
+					"eGovTot" : 36334
+				}
+			]
+		}, {
+			"Year" : "2014",
+			"data" : [{
+					"Region" : "Vidin",
+					"InternetAccessPrc" : 45.38,
+					"InternetAccessTot" : 16234,
+					"InternetNeverPrc" : 28.426,
+					"InternetNeverTot" : 20397,
+					"InternetRegPrc" : 55.327,
+					"InternetRegTot" : 39699,
+					"eGovPrc" : 34.999,
+					"eGovTot" : 25113
+				}, {
+					"Region" : "Vratsa",
+					"InternetAccessPrc" : 38.468,
+					"InternetAccessTot" : 25196,
+					"InternetNeverPrc" : 46.85,
+					"InternetNeverTot" : 63665,
+					"InternetRegPrc" : 39.897,
+					"InternetRegTot" : 54216,
+					"eGovPrc" : 20.533,
+					"eGovTot" : 27902
+				}, {
+					"Region" : "Lovech",
+					"InternetAccessPrc" : 45.78,
+					"InternetAccessTot" : 22377,
+					"InternetNeverPrc" : 42.868,
+					"InternetNeverTot" : 43367,
+					"InternetRegPrc" : 52.93,
+					"InternetRegTot" : 53548,
+					"eGovPrc" : 17.33,
+					"eGovTot" : 17532
+				}, {
+					"Region" : "Montana",
+					"InternetAccessPrc" : 47.863,
+					"InternetAccessTot" : 23625,
+					"InternetNeverPrc" : 38.145,
+					"InternetNeverTot" : 40403,
+					"InternetRegPrc" : 47.886,
+					"InternetRegTot" : 50719,
+					"eGovPrc" : 17.166,
+					"eGovTot" : 18182
+				}, {
+					"Region" : "Pleven",
+					"InternetAccessPrc" : 43.788,
+					"InternetAccessTot" : 20925,
+					"InternetNeverPrc" : 51.274,
+					"InternetNeverTot" : 1.0026e+05,
+					"InternetRegPrc" : 39.539,
+					"InternetRegTot" : 77317,
+					"eGovPrc" : 20.118,
+					"eGovTot" : 39341
+				}, {
+					"Region" : "Veliko Tarnovo",
+					"InternetAccessPrc" : 55.02,
+					"InternetAccessTot" : 53860,
+					"InternetNeverPrc" : 40.628,
+					"InternetNeverTot" : 79637,
+					"InternetRegPrc" : 49.261,
+					"InternetRegTot" : 96559,
+					"eGovPrc" : 24.679,
+					"eGovTot" : 48374
+				}, {
+					"Region" : "Gabrovo",
+					"InternetAccessPrc" : 64.37,
+					"InternetAccessTot" : 29377,
+					"InternetNeverPrc" : 34.956,
+					"InternetNeverTot" : 31716,
+					"InternetRegPrc" : 59.806,
+					"InternetRegTot" : 54263,
+					"eGovPrc" : 15.557,
+					"eGovTot" : 14115
+				}, {
+					"Region" : "Razgrad",
+					"InternetAccessPrc" : 59.437,
+					"InternetAccessTot" : 1.3805e+05,
+					"InternetNeverPrc" : 23.488,
+					"InternetNeverTot" : 22145,
+					"InternetRegPrc" : 65.199,
+					"InternetRegTot" : 61471,
+					"eGovPrc" : 39.779,
+					"eGovTot" : 37504
+				}, {
+					"Region" : "Ruse",
+					"InternetAccessPrc" : 64.613,
+					"InternetAccessTot" : 27061,
+					"InternetNeverPrc" : 35.392,
+					"InternetNeverTot" : 63505,
+					"InternetRegPrc" : 60.072,
+					"InternetRegTot" : 1.0779e+05,
+					"eGovPrc" : 30.184,
+					"eGovTot" : 54159
+				}, {
+					"Region" : "Silistra",
+					"InternetAccessPrc" : 60.242,
+					"InternetAccessTot" : 51479,
+					"InternetNeverPrc" : 46.879,
+					"InternetNeverTot" : 42363,
+					"InternetRegPrc" : 44.418,
+					"InternetRegTot" : 40138,
+					"eGovPrc" : 8.9567,
+					"eGovTot" : 8093.8
+				}, {
+					"Region" : "Varna",
+					"InternetAccessPrc" : 58.904,
+					"InternetAccessTot" : 1.0209e+05,
+					"InternetNeverPrc" : 33.302,
+					"InternetNeverTot" : 1.2211e+05,
+					"InternetRegPrc" : 57.073,
+					"InternetRegTot" : 2.0926e+05,
+					"eGovPrc" : 38.757,
+					"eGovTot" : 1.4211e+05
+				}, {
+					"Region" : "Dobrich",
+					"InternetAccessPrc" : 49.649,
+					"InternetAccessTot" : 58078,
+					"InternetNeverPrc" : 38.907,
+					"InternetNeverTot" : 55660,
+					"InternetRegPrc" : 57.806,
+					"InternetRegTot" : 82697,
+					"eGovPrc" : 17.405,
+					"eGovTot" : 24899
+				}, {
+					"Region" : "Targovishte",
+					"InternetAccessPrc" : 41.761,
+					"InternetAccessTot" : 17211,
+					"InternetNeverPrc" : 49.464,
+					"InternetNeverTot" : 44584,
+					"InternetRegPrc" : 31.488,
+					"InternetRegTot" : 28382,
+					"eGovPrc" : 22.565,
+					"eGovTot" : 20339
+				}, {
+					"Region" : "Shumen",
+					"InternetAccessPrc" : 48.167,
+					"InternetAccessTot" : 30536,
+					"InternetNeverPrc" : 48.397,
+					"InternetNeverTot" : 66515,
+					"InternetRegPrc" : 46.458,
+					"InternetRegTot" : 63849,
+					"eGovPrc" : 8.4024,
+					"eGovTot" : 11548
+				}, {
+					"Region" : "Burgas",
+					"InternetAccessPrc" : 51.565,
+					"InternetAccessTot" : 75202,
+					"InternetNeverPrc" : 45.554,
+					"InternetNeverTot" : 1.4495e+05,
+					"InternetRegPrc" : 44.531,
+					"InternetRegTot" : 1.417e+05,
+					"eGovPrc" : 19.644,
+					"eGovTot" : 62506
+				}, {
+					"Region" : "Sliven",
+					"InternetAccessPrc" : 49.826,
+					"InternetAccessTot" : 19925,
+					"InternetNeverPrc" : 39.105,
+					"InternetNeverTot" : 55678,
+					"InternetRegPrc" : 47.806,
+					"InternetRegTot" : 68067,
+					"eGovPrc" : 17.178,
+					"eGovTot" : 24458
+				}, {
+					"Region" : "Stara Zagora",
+					"InternetAccessPrc" : 53.724,
+					"InternetAccessTot" : 45013,
+					"InternetNeverPrc" : 48.072,
+					"InternetNeverTot" : 1.1953e+05,
+					"InternetRegPrc" : 41.232,
+					"InternetRegTot" : 1.0253e+05,
+					"eGovPrc" : 15.68,
+					"eGovTot" : 38991
+				}, {
+					"Region" : "Yambol",
+					"InternetAccessPrc" : 57.164,
+					"InternetAccessTot" : 26105,
+					"InternetNeverPrc" : 30.932,
+					"InternetNeverTot" : 29396,
+					"InternetRegPrc" : 59.991,
+					"InternetRegTot" : 57011,
+					"eGovPrc" : 31.551,
+					"eGovTot" : 29984
+				}, {
+					"Region" : "Blagoevgrad",
+					"InternetAccessPrc" : 61.917,
+					"InternetAccessTot" : 66105,
+					"InternetNeverPrc" : 35.939,
+					"InternetNeverTot" : 88842,
+					"InternetRegPrc" : 54.29,
+					"InternetRegTot" : 1.342e+05,
+					"eGovPrc" : 17.004,
+					"eGovTot" : 42035
+				}, {
+					"Region" : "Kyustendil",
+					"InternetAccessPrc" : 39.885,
+					"InternetAccessTot" : 19077,
+					"InternetNeverPrc" : 53.196,
+					"InternetNeverTot" : 53039,
+					"InternetRegPrc" : 39.982,
+					"InternetRegTot" : 39864,
+					"eGovPrc" : 4.0376,
+					"eGovTot" : 4025.7
+				}, {
+					"Region" : "Pernik",
+					"InternetAccessPrc" : 52.775,
+					"InternetAccessTot" : 47368,
+					"InternetNeverPrc" : 47.616,
+					"InternetNeverTot" : 47145,
+					"InternetRegPrc" : 47.776,
+					"InternetRegTot" : 47303,
+					"eGovPrc" : 12.443,
+					"eGovTot" : 12320
+				}, {
+					"Region" : "Sofia",
+					"InternetAccessPrc" : 69.26,
+					"InternetAccessTot" : 3.5337e+05,
+					"InternetNeverPrc" : 43.997,
+					"InternetNeverTot" : 80532,
+					"InternetRegPrc" : 48.827,
+					"InternetRegTot" : 89372,
+					"eGovPrc" : 21.362,
+					"eGovTot" : 39101
+				}, {
+					"Region" : "Sofia-Grad",
+					"InternetAccessPrc" : 45.902,
+					"InternetAccessTot" : 19876,
+					"InternetNeverPrc" : 19.482,
+					"InternetNeverTot" : 2.0127e+05,
+					"InternetRegPrc" : 73.089,
+					"InternetRegTot" : 7.551e+05,
+					"eGovPrc" : 30.445,
+					"eGovTot" : 3.1453e+05
+				}, {
+					"Region" : "Kardzhali",
+					"InternetAccessPrc" : 65.794,
+					"InternetAccessTot" : 42637,
+					"InternetNeverPrc" : 59.033,
+					"InternetNeverTot" : 68731,
+					"InternetRegPrc" : 35.714,
+					"InternetRegTot" : 41581,
+					"eGovPrc" : 2.0622,
+					"eGovTot" : 2401
+				}, {
+					"Region" : "Pazardzhik",
+					"InternetAccessPrc" : 49.633,
+					"InternetAccessTot" : 25256,
+					"InternetNeverPrc" : 41.32,
+					"InternetNeverTot" : 84944,
+					"InternetRegPrc" : 44.787,
+					"InternetRegTot" : 92070,
+					"eGovPrc" : 15.006,
+					"eGovTot" : 30849
+				}, {
+					"Region" : "Plovdiv",
+					"InternetAccessPrc" : 45.005,
+					"InternetAccessTot" : 42130,
+					"InternetNeverPrc" : 36.522,
+					"InternetNeverTot" : 1.8967e+05,
+					"InternetRegPrc" : 51.432,
+					"InternetRegTot" : 2.671e+05,
+					"eGovPrc" : 10.349,
+					"eGovTot" : 53743
+				}, {
+					"Region" : "Smolyan",
+					"InternetAccessPrc" : 55.366,
+					"InternetAccessTot" : 35562,
+					"InternetNeverPrc" : 46.774,
+					"InternetNeverTot" : 43280,
+					"InternetRegPrc" : 49.418,
+					"InternetRegTot" : 45726,
+					"eGovPrc" : 6.1864,
+					"eGovTot" : 5724.3
+				}, {
+					"Region" : "Haskovo",
+					"InternetAccessPrc" : 57.493,
+					"InternetAccessTot" : 46999,
+					"InternetNeverPrc" : 35.949,
+					"InternetNeverTot" : 65163,
+					"InternetRegPrc" : 50.94,
+					"InternetRegTot" : 92337,
+					"eGovPrc" : 12.625,
+					"eGovTot" : 22884
+				}
+			]
+		}
+	]
+}
